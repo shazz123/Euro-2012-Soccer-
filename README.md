@@ -1,4 +1,4 @@
-# Euro-2012-Soccer-
+# Euro-2012-Soccer
 
 **Scenario**
 
