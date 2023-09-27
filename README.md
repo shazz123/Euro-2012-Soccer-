@@ -30,14 +30,14 @@ _Tech Used : Python_
 
 **Summary**
 
-# . There are total 16 teams participated in euro 2012
+#### . There are total 16 teams participated in euro 2012
 
-# . Italy leads in receiving the most yellow cards, with Portugal and Spain following in second and third positions, respectively.
+#### . Italy leads in receiving the most yellow cards, with Portugal and Spain following in second and third positions, respectively.
 
-# . Greece, Poland, and the Republic of Ireland each hold the lead in red cards, with one red card per team.
+#### . Greece, Poland, and the Republic of Ireland each hold the lead in red cards, with one red card per team.
 
-# . Mean Yellow Card shown per team is 7.
+#### . Mean Yellow Card shown per team is 7.
 
-# . The team scored more than 6 goals are Germany and Spain.
+#### . The team scored more than 6 goals are Germany and Spain.
 
-# . When shooting accuracy come into place between England, Italy and France we can say that England has higher shooting accuracy with 50% followed by Italy by 43% and Russia with 22.5%.
+#### . When shooting accuracy come into place between England, Italy and France we can say that England has higher shooting accuracy with 50% followed by Italy by 43% and Russia with 22.5%.
